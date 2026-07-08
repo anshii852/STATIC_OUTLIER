@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Outlier Detection using Z-Score", layout="wide")
 
-st.title("📊 Outlier Detection using Z-Score")
+st.title("📈Outlier Detection using Z-Score")
 
 uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
 
